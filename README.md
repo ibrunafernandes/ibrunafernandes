@@ -6,7 +6,7 @@ I ended up here because I'm migrating from Windows to Linux and because when usi
 
 Here's how I got started here. And I loved it. A lot!
 
-It reminds me a bit of DevOps, but the world of open source is beautiful, isn't it?
+This reminds me a bit of DevOps, but the open source world is much more beautiful, isn't it?
 
 I'm excited to be able to contribute and perhaps receive contributions related to my interests.
 
