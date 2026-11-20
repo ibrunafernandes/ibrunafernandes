@@ -26,4 +26,4 @@ But, it is not a priority for now. First VALIDATE THE IDEA and evaluate the viab
 
 I don't know yet if this works like a social network where you can add friends or follow someone, but if so, feel free to connect with me here.
 
-And good work to you, and to us!
+And good work to you, to us!
