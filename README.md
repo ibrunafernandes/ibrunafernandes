@@ -22,7 +22,7 @@ I'm excited to be able to contribute and perhaps receive contributions related t
 
 In this socio-environmental impact project (future, if validated) I would be very interested in knowing and delving deeper into the location mechanism used by the Tinder app (programming languages ​​used, how it works, etc.). So, following GitHub's idea for the README "- 🤔 I'm looking for help with ..." I would greatly appreciate suggestions and/or more knowledge related to the structure of the Tinder app.
 
-But, it is not a priority for now. First VALIDATE THE IDEA and evaluate the viability of the business, Bruna.
+But, it is not a priority for now. "First VALIDATE THE IDEA and evaluate the viability of the business, Bruna".
 
 I don't know yet if this works like a social network where you can add friends or follow someone, but if so, feel free to connect with me here.
 
